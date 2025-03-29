@@ -31,7 +31,7 @@
 "comment.block.documentation" = { fg = "g_5", modifiers = ["italic"] }
 
 "variable" = "g_3"
-"variable.parameter" = { fg = "g_2", modifiers = ["italic"] }
+"variable.parameter" = { fg = "orange_glow", modifiers = ["bold","italic"] }
 "variable.builtin" = "blue"
 "variable.other.member" = { fg = "g_2" }
 
@@ -56,7 +56,7 @@
 
 "tag" = { fg = "orange_glow", modifiers = ["italic"] }
 
-"namespace" = { fg = "orange_glow", modifiers = ["bold"] }
+"namespace" = { fg = "orange_smolder"}
 
 "special" = "orange_smolder" # fuzzy highlight
 
